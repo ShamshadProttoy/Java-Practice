@@ -1,0 +1,26 @@
+run:
+Welcome to our Restaurant Management Project!Featuring:	 Team Joy Bangla!!!
+java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: restmanage.Manager
+Enter the Employee ID:
+1110011
+Enter the First Name:
+Sheikh
+Enter the Last Name:
+Ahmed
+Enter Email:
+dimitry1234@gmail.com
+Enter Department id
+101
+java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: restmanage.Department
+Enter Street Name:
+mohammadPur
+Enter Town name:
+Dhaka
+Enter Branchno:
+UVA10029
+Enter Branch Name:
+DhakaBranch
+Enter Corporate report:
+VeryGoodYoungMan
+java.io.InvalidClassException: restmanage.Manager; no valid constructor
+BUILD SUCCESSFUL (total time: 7 minutes 23 seconds)
